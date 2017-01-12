@@ -23,7 +23,7 @@ const textField = {
     "padding":"0px",
     "marginTop":"-10px",
     "boxShadow":"none",
-    "fontSize" : "230%"
+    "fontSize" : "200%"
 
 }
 
@@ -31,7 +31,7 @@ class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            value: 'the grandchild'
+            value: ''
         };
     }
 

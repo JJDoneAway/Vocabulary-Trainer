@@ -10,20 +10,21 @@ import {
 import React, {Component} from 'react';
 
 const headerRow = {
-    "height": "4.5em",
+    "height": "7.5em",
+    "borderBottom": "solid",
     "background": "#DFF0D8"
 }
 const normalLineRow = {
-    "minHeight": "3.3em",
+    "minHeight": "5.5em",
     "background": "#DFF0D8"
 }
 const textField = {
+    "minHeight" : "1.5em",
     "background": "#DFF0D8",
     "border": "none",
-    "padding":"0px",
-    "marginTop":"-10px",
+    "paddingLeft":"3em",
     "boxShadow":"none",
-    "fontSize" : "200%"
+    "fontSize" : "4em"
 
 }
 

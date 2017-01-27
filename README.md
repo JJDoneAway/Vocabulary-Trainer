@@ -21,8 +21,8 @@ Some good hints
 - React Bootstrap integration https://react-bootstrap.github.io/components.html
 
 
-
-
+Quick Starter
+--------------
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).

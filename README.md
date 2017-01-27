@@ -13,7 +13,14 @@ How to start this project
 
 4) ```npm start```
 
-5) your browser should already be opend to 
+5) your browser should already be opend to
+
+Some good hints
+---------------
+
+- React Bootstrap integration https://react-bootstrap.github.io/components.html
+
+
 
 
 
